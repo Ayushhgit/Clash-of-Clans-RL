@@ -1,0 +1,160 @@
+{
+ "image": "Screenshot 2026-09-01 144532.png",
+ "w": 732,
+ "h": 502,
+ "boxes": [
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    5,
+    252,
+    96,
+    334
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    200,
+    252,
+    291,
+    334
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    397,
+    252,
+    489,
+    334
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    590,
+    252,
+    681,
+    334
+   ]
+  },
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    285,
+    170,
+    426,
+    301
+   ]
+  },
+  {
+   "cls": "DARK_STORAGE",
+   "xyxy": [
+    297,
+    327,
+    386,
+    406
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    112,
+    325,
+    196,
+    406
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    480,
+    325,
+    566,
+    406
+   ]
+  },
+  {
+   "cls": "INFERNO",
+   "xyxy": [
+    107,
+    180,
+    146,
+    281
+   ]
+  },
+  {
+   "cls": "INFERNO",
+   "xyxy": [
+    527,
+    180,
+    571,
+    281
+   ]
+  },
+  {
+   "cls": "SCATTERSHOT",
+   "xyxy": [
+    285,
+    30,
+    386,
+    111
+   ]
+  },
+  {
+   "cls": "XBOW",
+   "xyxy": [
+    240,
+    137,
+    291,
+    166
+   ]
+  },
+  {
+   "cls": "XBOW",
+   "xyxy": [
+    397,
+    137,
+    446,
+    166
+   ]
+  },
+  {
+   "cls": "MORTAR",
+   "xyxy": [
+    0,
+    120,
+    108,
+    201
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    615,
+    395,
+    671,
+    451
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    177,
+    142,
+    231,
+    201
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    455,
+    142,
+    509,
+    201
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "image": "000000003.png",
+ "w": 1185,
+ "h": 672,
+ "boxes": [
+  {
+   "cls": "ATTACK_BUTTON",
+   "xyxy": [
+    18.0,
+    557.1,
+    120.2,
+    654.9
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_GOLD",
+   "xyxy": [
+    1028.7,
+    24.2,
+    1172.0,
+    47.4
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_ELIXIR",
+   "xyxy": [
+    1028.7,
+    56.4,
+    1172.0,
+    78.6
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_DARK",
+   "xyxy": [
+    1061.8,
+    91.7,
+    1162.0,
+    110.8
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

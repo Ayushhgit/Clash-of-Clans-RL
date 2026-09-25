@@ -1,0 +1,115 @@
+{
+ "image": "000000027.png",
+ "w": 1177,
+ "h": 667,
+ "boxes": [
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    385,
+    335,
+    489,
+    415
+   ]
+  },
+  {
+   "cls": "DARK_STORAGE",
+   "xyxy": [
+    925,
+    235,
+    989,
+    295
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    141,
+    151,
+    182,
+    192
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    478,
+    181,
+    529,
+    239
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    205,
+    295,
+    255,
+    352
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    688,
+    345,
+    739,
+    402
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    615,
+    408,
+    665,
+    465
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    65,
+    268,
+    115,
+    325
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    1058,
+    268,
+    1109,
+    325
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    998,
+    161,
+    1049,
+    212
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    1071,
+    155,
+    1129,
+    205
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    128,
+    225,
+    189,
+    275
+   ]
+  }
+ ]
+}

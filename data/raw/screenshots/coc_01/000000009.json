@@ -1,0 +1,315 @@
+{
+ "image": "000000009.png",
+ "w": 1183,
+ "h": 667,
+ "boxes": [
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    222.0,
+    42.0,
+    320.0,
+    140.0
+   ],
+   "auto": true,
+   "score": 0.996
+  },
+  {
+   "cls": "AIR_DEFENSE",
+   "xyxy": [
+    680.0,
+    160.0,
+    770.0,
+    267.0
+   ],
+   "auto": true,
+   "score": 0.996
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    468.0,
+    22.0,
+    548.0,
+    145.0
+   ],
+   "auto": true,
+   "score": 0.994
+  },
+  {
+   "cls": "XBOW",
+   "xyxy": [
+    720.0,
+    88.0,
+    830.0,
+    160.0
+   ],
+   "auto": true,
+   "score": 0.994
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    175.0,
+    200.0,
+    300.0,
+    310.0
+   ],
+   "auto": true,
+   "score": 0.993
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    807.0,
+    15.0,
+    905.0,
+    110.0
+   ],
+   "auto": true,
+   "score": 0.993
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    900.0,
+    77.0,
+    985.0,
+    160.0
+   ],
+   "auto": true,
+   "score": 0.992
+  },
+  {
+   "cls": "CANNON",
+   "xyxy": [
+    710.0,
+    300.0,
+    783.0,
+    383.0
+   ],
+   "auto": true,
+   "score": 0.99
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    292.0,
+    12.0,
+    396.0,
+    93.0
+   ],
+   "auto": true,
+   "score": 0.988
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    610.0,
+    170.0,
+    632.0,
+    192.0
+   ],
+   "auto": true,
+   "score": 0.949
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    414.0,
+    264.0,
+    494.0,
+    387.0
+   ],
+   "auto": true,
+   "score": 0.791
+  },
+  {
+   "cls": "AIR_DEFENSE",
+   "xyxy": [
+    1030.0,
+    342.0,
+    1120.0,
+    449.0
+   ],
+   "auto": true,
+   "score": 0.722
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    153.0,
+    495.0,
+    175.0,
+    517.0
+   ],
+   "auto": true,
+   "score": 0.505
+  },
+  {
+   "cls": "NEXT_BUTTON",
+   "xyxy": [
+    980.5,
+    462.5,
+    1119.5,
+    541.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_GOLD",
+   "xyxy": [
+    989.5,
+    16.5,
+    1132.5,
+    39.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_ELIXIR",
+   "xyxy": [
+    989.5,
+    48.5,
+    1132.5,
+    70.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_DARK",
+   "xyxy": [
+    1022.5,
+    83.5,
+    1122.5,
+    102.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_TIMER",
+   "xyxy": [
+    482.5,
+    10.5,
+    612.5,
+    54.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    134.5,
+    564.5,
+    202.5,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    207.3,
+    564.5,
+    275.3,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    280.1,
+    564.5,
+    348.1,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    352.9,
+    564.5,
+    420.9,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    425.7,
+    564.5,
+    493.7,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    498.5,
+    564.5,
+    566.5,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    571.3,
+    564.5,
+    639.3,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    644.1,
+    564.5,
+    712.1,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    716.9,
+    564.5,
+    784.9,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    789.7,
+    564.5,
+    857.7,
+    657.5
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

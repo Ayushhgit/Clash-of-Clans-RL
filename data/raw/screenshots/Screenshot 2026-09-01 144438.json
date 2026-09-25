@@ -1,0 +1,169 @@
+{
+ "image": "Screenshot 2026-09-01 144438.png",
+ "w": 907,
+ "h": 715,
+ "boxes": [
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    262,
+    244,
+    357,
+    339
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    19,
+    259,
+    120,
+    351
+   ]
+  },
+  {
+   "cls": "AIR_DEFENSE",
+   "xyxy": [
+    159,
+    369,
+    213,
+    432
+   ]
+  },
+  {
+   "cls": "XBOW",
+   "xyxy": [
+    387,
+    469,
+    451,
+    520
+   ]
+  },
+  {
+   "cls": "CLAN_CASTLE",
+   "xyxy": [
+    459,
+    475,
+    545,
+    588
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    534,
+    534,
+    610,
+    601
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    659,
+    466,
+    717,
+    545
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    0,
+    381,
+    45,
+    476
+   ]
+  },
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    97,
+    581,
+    267,
+    689
+   ]
+  },
+  {
+   "cls": "CANNON",
+   "xyxy": [
+    416,
+    319,
+    495,
+    376
+   ]
+  },
+  {
+   "cls": "CANNON",
+   "xyxy": [
+    322,
+    425,
+    395,
+    489
+   ]
+  },
+  {
+   "cls": "GOLD_MINE",
+   "xyxy": [
+    22,
+    56,
+    110,
+    117
+   ]
+  },
+  {
+   "cls": "ELIXIR_COLLECTOR",
+   "xyxy": [
+    509,
+    228,
+    598,
+    307
+   ]
+  },
+  {
+   "cls": "ELIXIR_COLLECTOR",
+   "xyxy": [
+    616,
+    316,
+    707,
+    389
+   ]
+  },
+  {
+   "cls": "ELIXIR_COLLECTOR",
+   "xyxy": [
+    747,
+    400,
+    842,
+    476
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    159,
+    184,
+    217,
+    245
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    269,
+    62,
+    351,
+    126
+   ]
+  },
+  {
+   "cls": "DEFENSE_OTHER",
+   "xyxy": [
+    719,
+    587,
+    807,
+    682
+   ]
+  }
+ ]
+}

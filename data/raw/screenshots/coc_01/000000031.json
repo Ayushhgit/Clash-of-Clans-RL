@@ -1,0 +1,18 @@
+{
+ "image": "000000031.png",
+ "w": 1186,
+ "h": 654,
+ "boxes": [
+  {
+   "cls": "RETURN_BUTTON",
+   "xyxy": [
+    523.3,
+    543.2,
+    678.7,
+    609.9
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

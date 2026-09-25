@@ -1,0 +1,162 @@
+{
+ "image": "000000057.png",
+ "w": 925,
+ "h": 655,
+ "boxes": [
+  {
+   "cls": "END_BATTLE_BUTTON",
+   "xyxy": [
+    38.0,
+    497.4,
+    129.5,
+    527.9
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "LOOT_PANEL",
+   "xyxy": [
+    44.2,
+    52.6,
+    138.1,
+    156.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_TIMER",
+   "xyxy": [
+    435.2,
+    9.4,
+    536.8,
+    52.6
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    163.1,
+    553.4,
+    216.3,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    220.1,
+    553.4,
+    273.2,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    277.0,
+    553.4,
+    330.2,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    333.9,
+    553.4,
+    387.1,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    390.8,
+    553.4,
+    444.0,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    447.8,
+    553.4,
+    500.9,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    504.7,
+    553.4,
+    557.8,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    561.6,
+    553.4,
+    614.8,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    618.5,
+    553.4,
+    671.7,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    675.4,
+    553.4,
+    728.6,
+    644.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    0.0,
+    486.0,
+    22.0,
+    508.0
+   ],
+   "auto": true,
+   "source": "template",
+   "score": 0.539
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "image": "000000021.png",
+ "w": 1179,
+ "h": 670,
+ "boxes": [
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    375,
+    338,
+    445,
+    409
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    205,
+    255,
+    265,
+    295
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    441,
+    395,
+    499,
+    439
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    831,
+    345,
+    892,
+    389
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    671,
+    465,
+    729,
+    509
+   ]
+  },
+  {
+   "cls": "CLAN_CASTLE",
+   "xyxy": [
+    618,
+    345,
+    669,
+    389
+   ]
+  },
+  {
+   "cls": "SCATTERSHOT",
+   "xyxy": [
+    615,
+    255,
+    675,
+    299
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    331,
+    141,
+    382,
+    189
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    465,
+    198,
+    515,
+    245
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    711,
+    158,
+    762,
+    205
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    758,
+    318,
+    809,
+    365
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    618,
+    425,
+    669,
+    472
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    281,
+    348,
+    332,
+    395
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    281,
+    475,
+    332,
+    522
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    525,
+    525,
+    575,
+    572
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    525,
+    145,
+    582,
+    189
+   ]
+  }
+ ]
+}

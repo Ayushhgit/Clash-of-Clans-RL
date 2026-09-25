@@ -1,0 +1,31 @@
+{
+ "image": "000000079.png",
+ "w": 1194,
+ "h": 552,
+ "boxes": [
+  {
+   "cls": "WALL",
+   "xyxy": [
+    154.0,
+    485.0,
+    176.0,
+    507.0
+   ],
+   "auto": true,
+   "source": "template",
+   "score": 0.521
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    323.0,
+    485.0,
+    345.0,
+    507.0
+   ],
+   "auto": true,
+   "source": "template",
+   "score": 0.506
+  }
+ ]
+}

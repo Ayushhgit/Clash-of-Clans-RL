@@ -1,0 +1,62 @@
+{
+ "image": "000000010.png",
+ "w": 1171,
+ "h": 661,
+ "boxes": [
+  {
+   "cls": "END_BATTLE_BUTTON",
+   "xyxy": [
+    50.1,
+    523.6,
+    165.9,
+    554.4
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_TIMER",
+   "xyxy": [
+    552.9,
+    31.1,
+    681.6,
+    74.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    280.5,
+    580.1,
+    347.8,
+    660
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    352.6,
+    580.1,
+    419.9,
+    660
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    857.0,
+    580.1,
+    924.3,
+    660
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

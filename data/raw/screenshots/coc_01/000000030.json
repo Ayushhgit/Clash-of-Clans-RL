@@ -1,0 +1,40 @@
+{
+ "image": "000000030.png",
+ "w": 1180,
+ "h": 663,
+ "boxes": [
+  {
+   "cls": "HUD_GOLD",
+   "xyxy": [
+    1024.4,
+    23.9,
+    1167.0,
+    46.7
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_ELIXIR",
+   "xyxy": [
+    1024.4,
+    55.7,
+    1167.0,
+    77.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_DARK",
+   "xyxy": [
+    1057.3,
+    90.5,
+    1157.1,
+    109.3
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

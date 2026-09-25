@@ -1,0 +1,115 @@
+{
+ "image": "000000028.png",
+ "w": 1174,
+ "h": 661,
+ "boxes": [
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    503,
+    318,
+    562,
+    375
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    941,
+    248,
+    995,
+    285
+   ]
+  },
+  {
+   "cls": "ELIXIR_STORAGE",
+   "xyxy": [
+    351,
+    215,
+    382,
+    245
+   ]
+  },
+  {
+   "cls": "DARK_STORAGE",
+   "xyxy": [
+    805,
+    265,
+    845,
+    302
+   ]
+  },
+  {
+   "cls": "CLAN_CASTLE",
+   "xyxy": [
+    495,
+    28,
+    535,
+    75
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    685,
+    128,
+    725,
+    165
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    511,
+    521,
+    552,
+    555
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    548,
+    235,
+    585,
+    269
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    465,
+    291,
+    502,
+    329
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    628,
+    368,
+    665,
+    402
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    468,
+    431,
+    509,
+    469
+   ]
+  },
+  {
+   "cls": "SCATTERSHOT",
+   "xyxy": [
+    618,
+    435,
+    669,
+    475
+   ]
+  }
+ ]
+}

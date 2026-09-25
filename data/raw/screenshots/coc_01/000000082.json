@@ -1,0 +1,218 @@
+{
+ "image": "000000082.png",
+ "w": 1177,
+ "h": 658,
+ "boxes": [
+  {
+   "cls": "NEXT_BUTTON",
+   "xyxy": [
+    1003.9,
+    465.1,
+    1142.2,
+    543.0
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "END_BATTLE_BUTTON",
+   "xyxy": [
+    3.0,
+    509.5,
+    119.4,
+    540.0
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "LOOT_PANEL",
+   "xyxy": [
+    11.0,
+    62.6,
+    130.4,
+    167.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_GOLD",
+   "xyxy": [
+    1012.9,
+    25.1,
+    1155.2,
+    47.8
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_ELIXIR",
+   "xyxy": [
+    1012.9,
+    56.6,
+    1155.2,
+    78.3
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_DARK",
+   "xyxy": [
+    1045.7,
+    91.2,
+    1145.2,
+    109.9
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_TIMER",
+   "xyxy": [
+    508.5,
+    19.2,
+    637.8,
+    62.6
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    162.2,
+    565.6,
+    229.8,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    234.6,
+    565.6,
+    302.3,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    307.0,
+    565.6,
+    374.7,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    379.5,
+    565.6,
+    447.1,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    451.9,
+    565.6,
+    519.6,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    524.3,
+    565.6,
+    592.0,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    596.8,
+    565.6,
+    664.4,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    669.2,
+    565.6,
+    736.8,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    741.6,
+    565.6,
+    809.3,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    814.1,
+    565.6,
+    881.7,
+    657
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    1155.0,
+    480.0,
+    1177.0,
+    502.0
+   ],
+   "auto": true,
+   "source": "template",
+   "score": 10.865
+  },
+  {
+   "cls": "WALL",
+   "xyxy": [
+    156.0,
+    494.0,
+    178.0,
+    516.0
+   ],
+   "auto": true,
+   "source": "template",
+   "score": 0.517
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "image": "000000093.png",
+ "w": 1177,
+ "h": 657,
+ "boxes": [
+  {
+   "cls": "NEXT_BUTTON",
+   "xyxy": [
+    996.9,
+    455.1,
+    1135.2,
+    532.9
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "LOOT_PANEL",
+   "xyxy": [
+    4.0,
+    53.2,
+    123.4,
+    157.6
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_GOLD",
+   "xyxy": [
+    1005.9,
+    15.7,
+    1148.2,
+    38.4
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_ELIXIR",
+   "xyxy": [
+    1005.9,
+    47.3,
+    1148.2,
+    68.9
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_DARK",
+   "xyxy": [
+    1038.7,
+    81.7,
+    1138.2,
+    100.5
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "HUD_TIMER",
+   "xyxy": [
+    501.5,
+    9.8,
+    630.8,
+    53.2
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    155.2,
+    555.5,
+    222.8,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    227.6,
+    555.5,
+    295.3,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    300.0,
+    555.5,
+    367.7,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    372.5,
+    555.5,
+    440.1,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    444.9,
+    555.5,
+    512.6,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    517.3,
+    555.5,
+    585.0,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    589.8,
+    555.5,
+    657.4,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    662.2,
+    555.5,
+    729.8,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    734.6,
+    555.5,
+    802.3,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  },
+  {
+   "cls": "ARMY_CARD",
+   "xyxy": [
+    807.1,
+    555.5,
+    874.7,
+    647.1
+   ],
+   "auto": true,
+   "source": "layout"
+  }
+ ]
+}

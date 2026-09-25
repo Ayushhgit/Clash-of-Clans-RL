@@ -1,0 +1,142 @@
+{
+ "image": "000000087.png",
+ "w": 1174,
+ "h": 661,
+ "boxes": [
+  {
+   "cls": "TOWN_HALL",
+   "xyxy": [
+    565,
+    238,
+    625,
+    302
+   ]
+  },
+  {
+   "cls": "CLAN_CASTLE",
+   "xyxy": [
+    568,
+    105,
+    612,
+    145
+   ]
+  },
+  {
+   "cls": "DARK_STORAGE",
+   "xyxy": [
+    488,
+    358,
+    532,
+    399
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    371,
+    218,
+    415,
+    255
+   ]
+  },
+  {
+   "cls": "GOLD_STORAGE",
+   "xyxy": [
+    691,
+    218,
+    729,
+    255
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    758,
+    358,
+    795,
+    395
+   ]
+  },
+  {
+   "cls": "ARCHER_TOWER",
+   "xyxy": [
+    418,
+    365,
+    455,
+    402
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    425,
+    181,
+    469,
+    215
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    725,
+    181,
+    769,
+    215
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    435,
+    291,
+    479,
+    329
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    728,
+    275,
+    772,
+    312
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    491,
+    265,
+    529,
+    302
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    655,
+    261,
+    692,
+    299
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    725,
+    378,
+    765,
+    415
+   ]
+  },
+  {
+   "cls": "OTHER_BUILDING",
+   "xyxy": [
+    395,
+    98,
+    429,
+    135
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "clash-of-clans-data",
+  "version": "0.16.0",
+  "description": "A comprehensive, fully-typed dataset for Clash of Clans — structured JSON data",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    },
+    "./data/*": "./data/*",
+    "./images/*": "./images/*"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "lint": "tsc --noEmit && eslint .",
+    "format": "prettier --write \"**/*.ts\" \"**/*.md\" \"**/*.json\"",
+    "format:check": "prettier --check \"**/*.ts\" \"**/*.md\" \"**/*.json\"",
+    "sample": "tsx sample/index.ts",
+    "validate-images": "tsx scripts/validate-images.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "clash-of-clans",
+    "clash",
+    "game-data",
+    "json",
+    "dataset",
+    "typescript"
+  ],
+  "author": "Christopher Pezza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiefpansancolt/clash-of-clans-data.git"
+  },
+  "homepage": "https://github.com/chiefpansancolt/clash-of-clans-data#readme",
+  "bugs": {
+    "url": "https://github.com/chiefpansancolt/clash-of-clans-data/issues"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^6.0.2",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.6.0",
+    "@typescript-eslint/eslint-plugin": "^8.58.2",
+    "@typescript-eslint/parser": "^8.58.2",
+    "eslint": "^10.2.0",
+    "eslint-config-prettier": "^10.1.8",
+    "husky": "^9.1.7",
+    "jest": "^30.3.0",
+    "prettier": "^3.8.2",
+    "ts-jest": "^29.4.9",
+    "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  },
+  "files": [
+    "dist",
+    "data",
+    "images",
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "unrs-resolver"
+    ]
+  }
+}

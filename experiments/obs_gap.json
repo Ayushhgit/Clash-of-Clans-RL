@@ -1,0 +1,26 @@
+[
+  {
+    "level": "L2",
+    "win_privileged": 1.0,
+    "win_detected": 1.0,
+    "delta_win": 0.0,
+    "dest_privileged": 0.7778787878787877,
+    "dest_detected": 0.8045454545454546
+  },
+  {
+    "level": "L3",
+    "win_privileged": 0.7333333333333333,
+    "win_detected": 0.6,
+    "delta_win": -0.1333333333333333,
+    "dest_privileged": 0.3843469911581367,
+    "dest_detected": 0.40972666709508815
+  },
+  {
+    "level": "L4",
+    "win_privileged": 0.2,
+    "win_detected": 0.3333333333333333,
+    "delta_win": 0.1333333333333333,
+    "dest_privileged": 0.22746124763865894,
+    "dest_detected": 0.2566777321739841
+  }
+]

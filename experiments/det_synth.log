@@ -1,0 +1,16 @@
+buildings-only: 38 of 112 frames carry building boxes (281 boxes)
+coarse: 6 classes -> {'WALL': 28, 'OTHER_BUILDING': 34, 'AIR_DEFENSE': 5, 'DEFENSE': 138, 'LOOT': 62, 'TOWN_HALL': 14}
+train-extra: +896 frames (6135 boxes), validation stays on 5 real frames
+38 labelled frames  ->  train 929  val 5
+{"epoch": 1, "loss": 5.2909, "secs": 316.0826}
+{"epoch": 2, "loss": 2.6602, "secs": 275.0476}
+{"epoch": 3, "loss": 2.3746, "secs": 284.175}
+{"epoch": 4, "loss": 2.187, "secs": 284.1312}
+{"epoch": 5, "loss": 2.0382, "secs": 285.2052, "mAP50": 0.0, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.0}}
+{"epoch": 6, "loss": 1.8766, "secs": 285.7914}
+{"epoch": 7, "loss": 1.81, "secs": 356.3581}
+{"epoch": 8, "loss": 1.785, "secs": 273.5155}
+{"epoch": 9, "loss": 1.7003, "secs": 341.2606}
+{"epoch": 10, "loss": 1.6504, "secs": 442.0139, "mAP50": 0.0257, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.129}}
+{"epoch": 11, "loss": 1.6223, "secs": 442.2455}
+{"epoch": 12, "loss": 1.5351, "secs": 1051.2852}

@@ -1,0 +1,282 @@
+[
+  {
+    "epoch": 1,
+    "loss": 2.0722
+  },
+  {
+    "epoch": 2,
+    "loss": 1.9005
+  },
+  {
+    "epoch": 3,
+    "loss": 1.7348
+  },
+  {
+    "epoch": 4,
+    "loss": 1.5739
+  },
+  {
+    "epoch": 5,
+    "loss": 1.3386,
+    "accuracy": 0.10344827586206896,
+    "recall": {
+      "HOME": 0.0,
+      "SEARCH": 0.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.0,
+      "BATTLE": 1.0,
+      "BATTLE_CONFIRM": 0.0,
+      "RESULT": 1.0,
+      "DIALOG": 0.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "HOME->BATTLE": 1,
+      "SEARCH->BATTLE": 1,
+      "BASE_PREVIEW->BATTLE": 22,
+      "BATTLE_CONFIRM->RESULT": 1,
+      "DIALOG->ARMY": 1
+    }
+  },
+  {
+    "epoch": 6,
+    "loss": 1.2912
+  },
+  {
+    "epoch": 7,
+    "loss": 1.1888
+  },
+  {
+    "epoch": 8,
+    "loss": 1.0371
+  },
+  {
+    "epoch": 9,
+    "loss": 1.2422
+  },
+  {
+    "epoch": 10,
+    "loss": 1.0662,
+    "accuracy": 0.7586206896551724,
+    "recall": {
+      "HOME": 1.0,
+      "SEARCH": 0.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.773,
+      "BATTLE": 0.0,
+      "BATTLE_CONFIRM": 1.0,
+      "RESULT": 1.0,
+      "DIALOG": 1.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "SEARCH->BASE_PREVIEW": 1,
+      "BASE_PREVIEW->HOME": 2,
+      "BASE_PREVIEW->ARMY": 1,
+      "BASE_PREVIEW->BATTLE": 2,
+      "BATTLE->BASE_PREVIEW": 1
+    }
+  },
+  {
+    "epoch": 11,
+    "loss": 1.1604
+  },
+  {
+    "epoch": 12,
+    "loss": 0.9119
+  },
+  {
+    "epoch": 13,
+    "loss": 0.834
+  },
+  {
+    "epoch": 14,
+    "loss": 0.8396
+  },
+  {
+    "epoch": 15,
+    "loss": 1.0107,
+    "accuracy": 0.7931034482758621,
+    "recall": {
+      "HOME": 1.0,
+      "SEARCH": 1.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.818,
+      "BATTLE": 0.0,
+      "BATTLE_CONFIRM": 1.0,
+      "RESULT": 0.0,
+      "DIALOG": 1.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "BASE_PREVIEW->BATTLE": 4,
+      "BATTLE->BASE_PREVIEW": 1,
+      "RESULT->BATTLE_CONFIRM": 1
+    }
+  },
+  {
+    "epoch": 16,
+    "loss": 0.8982
+  },
+  {
+    "epoch": 17,
+    "loss": 0.8342
+  },
+  {
+    "epoch": 18,
+    "loss": 0.6081
+  },
+  {
+    "epoch": 19,
+    "loss": 0.6044
+  },
+  {
+    "epoch": 20,
+    "loss": 0.526,
+    "accuracy": 0.7931034482758621,
+    "recall": {
+      "HOME": 1.0,
+      "SEARCH": 1.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.818,
+      "BATTLE": 0.0,
+      "BATTLE_CONFIRM": 1.0,
+      "RESULT": 0.0,
+      "DIALOG": 1.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "BASE_PREVIEW->HOME": 2,
+      "BASE_PREVIEW->SEARCH": 1,
+      "BASE_PREVIEW->BATTLE": 1,
+      "BATTLE->BASE_PREVIEW": 1,
+      "RESULT->BATTLE_CONFIRM": 1
+    }
+  },
+  {
+    "epoch": 21,
+    "loss": 0.95
+  },
+  {
+    "epoch": 22,
+    "loss": 0.7012
+  },
+  {
+    "epoch": 23,
+    "loss": 0.7502
+  },
+  {
+    "epoch": 24,
+    "loss": 0.6135
+  },
+  {
+    "epoch": 25,
+    "loss": 0.5891,
+    "accuracy": 0.7931034482758621,
+    "recall": {
+      "HOME": 1.0,
+      "SEARCH": 1.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.727,
+      "BATTLE": 1.0,
+      "BATTLE_CONFIRM": 1.0,
+      "RESULT": 1.0,
+      "DIALOG": 1.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "BASE_PREVIEW->HOME": 2,
+      "BASE_PREVIEW->BATTLE": 4
+    }
+  },
+  {
+    "epoch": 26,
+    "loss": 0.5629
+  },
+  {
+    "epoch": 27,
+    "loss": 0.5368
+  },
+  {
+    "epoch": 28,
+    "loss": 0.6531
+  },
+  {
+    "epoch": 29,
+    "loss": 0.5884
+  },
+  {
+    "epoch": 30,
+    "loss": 0.7075,
+    "accuracy": 0.7931034482758621,
+    "recall": {
+      "HOME": 1.0,
+      "SEARCH": 1.0,
+      "ARMY": 1.0,
+      "BASE_PREVIEW": 0.727,
+      "BATTLE": 1.0,
+      "BATTLE_CONFIRM": 1.0,
+      "RESULT": 1.0,
+      "DIALOG": 1.0
+    },
+    "support": {
+      "HOME": 1,
+      "SEARCH": 1,
+      "ARMY": 1,
+      "BASE_PREVIEW": 22,
+      "BATTLE": 1,
+      "BATTLE_CONFIRM": 1,
+      "RESULT": 1,
+      "DIALOG": 1
+    },
+    "confusions": {
+      "BASE_PREVIEW->HOME": 2,
+      "BASE_PREVIEW->BATTLE": 4
+    }
+  }
+]

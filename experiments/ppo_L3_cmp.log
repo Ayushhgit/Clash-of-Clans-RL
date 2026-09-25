@@ -1,0 +1,74 @@
+{
+  "total_steps": "300000",
+  "num_envs": "64",
+  "rollout_steps": "32",
+  "epochs": "4",
+  "minibatches": "4",
+  "lr": "0.0003",
+  "anneal_lr": "True",
+  "gamma": "0.995",
+  "gae_lambda": "0.95",
+  "clip_coef": "0.2",
+  "clip_vloss": "True",
+  "ent_coef": "0.006",
+  "vf_coef": "0.5",
+  "max_grad_norm": "0.5",
+  "target_kl": "0.03",
+  "norm_adv": "True",
+  "critic_warmup_updates": "10",
+  "device": "cpu",
+  "torch_threads": "10",
+  "seed": "0",
+  "d_model": "96",
+  "n_heads": "4",
+  "n_layers": "1",
+  "memory": "gru",
+  "level": "L3",
+  "levels": "None",
+  "curriculum": "False",
+  "promote_win_rate": "0.7",
+  "promote_window": "100",
+  "promote_metric": "win",
+  "promote_threshold": "None",
+  "eval_every": "25",
+  "eval_episodes": "16",
+  "resume": "None",
+  "run_dir": "experiments/ppo_L3_cmp",
+  "log_every": "5",
+  "save_every": "20"
+}
+u   5 step    10240 L3 R     nan loot   nan win   nan ent    nan kl 0.0000 v 0.0173    196 sps
+[warmup] critic fitted over 10 updates; actor unfrozen
+u  10 step    20480 L3 R   1.879 loot 0.595 win  0.00 ent  4.631 kl 0.0000 v 0.0034    212 sps
+u  15 step    30720 L3 R   1.524 loot 0.472 win  0.30 ent  4.234 kl 0.0021 v 0.0027    172 sps
+u  20 step    40960 L3 R   1.501 loot 0.466 win  0.29 ent  4.971 kl 0.0000 v 0.0094    153 sps
+[eval] L3 loot 0.5[eval] mix loot 0.310 win 0.10 over 48 unseen bases
+u  25 step    51200 mix R   0.694 loot 0.249 win  0.08 ent  5.719 kl 0.0001 v 0.0026     66 sps
+u  30 step    61440 mix R   0.833 loot 0.286 win  0.14 ent  5.137 kl 0.0012 v 0.0053     69 sps
+u  35 step    71680 mix R   0.840 loot 0.288 win  0.13 ent  5.843 kl 0.0007 v 0.0028     70 sps
+u  40 step    81920 mix R   0.815 loot 0.282 win  0.13 ent  6.218 kl 0.0001 v 0.0004     72 sps
+u  45 step    92160 mix R   0.813 loot 0.282 win  0.16 ent  5.972 kl 0.0001 v 0.0056     74 sps
+[eval] mix loot 0.341 win 0.15 over 48 unseen bases
+u  50 step   102400 mix R   0.729 loot 0.259 win  0.14 ent  5.663 kl 0.0001 v 0.0021     55 sps
+u  55 step   112640 mix R   0.716 loot 0.256 win  0.13 ent  4.623 kl 0.0002 v 0.0010     57 sps
+u  60 step   122880 mix R   0.845 loot 0.291 win  0.23 ent  5.035 kl 0.0001 v 0.0042     58 sps
+u  65 step   133120 mix R   0.809 loot 0.283 win  0.21 ent  5.130 kl 0.0001 v 0.0006     59 sps
+u  70 step   143360 mix R   0.872 loot 0.301 win  0.20 ent  5.521 kl 0.0004 v 0.0008     61 sps
+[eval] mix loot 0.319 win 0.15 over 48 unseen bases
+u  75 step   153600 mix R   0.948 loot 0.322 win  0.19 ent  4.888 kl 0.0005 v 0.0013     52 sps
+u  80 step   163840 mix R   0.847 loot 0.294 win  0.14 ent  4.656 kl 0.0001 v 0.0008     54 sps
+u  85 step   174080 mix R   0.927 loot 0.313 win  0.14 ent  4.254 kl 0.0014 v 0.0035     55 sps
+u  90 step   184320 mix R   0.836 loot 0.288 win  0.13 ent  4.231 kl 0.0006 v 0.0033     57 sps
+u  95 step   194560 mix R   0.748 loot 0.263 win  0.11 ent  3.063 kl 0.0001 v 0.0007     59 sps
+[eval] mix loot 0.351 win 0.29 over 48 unseen bases
+u 100 step   204800 mix R   0.853 loot 0.292 win  0.16 ent  3.082 kl 0.0008 v 0.0037     54 sps
+u 105 step   215040 mix R   0.701 loot 0.252 win  0.14 ent  3.270 kl 0.0004 v 0.0024     56 sps
+u 110 step   225280 mix R   0.754 loot 0.266 win  0.17 ent  3.668 kl 0.0001 v 0.0014     57 sps
+u 115 step   235520 mix R   0.931 loot 0.313 win  0.26 ent  3.841 kl 0.0000 v 0.0028     59 sps
+u 120 step   245760 mix R   0.961 loot 0.322 win  0.27 ent  3.474 kl 0.0002 v 0.0020      6 sps
+[eval] mix loot 0.320 win 0.27 over 48 unseen bases
+u 125 step   256000 mix R   1.005 loot 0.335 win  0.28 ent  3.345 kl 0.0001 v 0.0023      6 sps
+u 130 step   266240 mix R   1.174 loot 0.382 win  0.37 ent  4.266 kl 0.0000 v 0.0021      6 sps
+u 135 step   276480 mix R   1.122 loot 0.369 win  0.33 ent  2.694 kl 0.0000 v 0.0026      7 sps
+u 140 step   286720 mix R   1.134 loot 0.371 win  0.35 ent  2.559 kl 0.0000 v 0.0025      7 sps
+u 145 step   296960 mix R   1.182 loot 0.384 win  0.39 ent  2.587 kl 0.0000 v 0.0036      7 sps

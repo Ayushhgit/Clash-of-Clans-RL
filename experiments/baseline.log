@@ -1,0 +1,18 @@
+random       L3  win  0.30  dest 0.397  loot 0.420  R   1.064  eff 0.493  t  171.8s   0.04 ms/act
+random       L4  win  0.02  dest 0.203  loot 0.220  R  -0.665  eff 0.233  t  171.4s   0.04 ms/act
+random       L5  win  0.08  dest 0.135  loot 0.129  R  -0.618  eff 0.151  t  151.4s   0.04 ms/act
+heuristic    L3  win  0.75  dest 0.480  loot 0.589  R   3.120  eff 0.554  t  158.9s   0.09 ms/act
+heuristic    L4  win  0.25  dest 0.235  loot 0.328  R   0.316  eff 0.260  t  128.4s   0.06 ms/act
+heuristic    L5  win  0.22  dest 0.199  loot 0.269  R   0.101  eff 0.223  t  136.0s   0.06 ms/act
+bc           L3  win  0.75  dest 0.486  loot 0.582  R   3.161  eff 0.557  t  161.6s  34.66 ms/act
+bc           L4  win  0.25  dest 0.275  loot 0.364  R   0.409  eff 0.304  t  147.0s  18.96 ms/act
+bc           L5  win  0.15  dest 0.191  loot 0.216  R  -0.224  eff 0.205  t  126.9s  31.91 ms/act
+
+mean_loot, 60 unseen bases per cell, obs_mode=privileged
+| agent | L3 | L4 | L5 |
+|---|---|---|---|
+| random | 0.420 | 0.220 | 0.129 |
+| heuristic | 0.589 | 0.328 | 0.269 |
+| bc | 0.582 | 0.364 | 0.216 |
+
+wrote experiments/benchmark_farm_baseline.json and experiments\benchmark_farm_baseline.md

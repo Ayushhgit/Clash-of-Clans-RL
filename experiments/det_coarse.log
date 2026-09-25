@@ -1,0 +1,84 @@
+buildings-only: 38 of 112 frames carry building boxes (281 boxes)
+coarse: 6 classes -> {'WALL': 28, 'OTHER_BUILDING': 34, 'AIR_DEFENSE': 5, 'DEFENSE': 138, 'LOOT': 62, 'TOWN_HALL': 14}
+38 labelled frames  ->  train 33  val 5
+{"epoch": 1, "loss": 17.5945, "secs": 17.7183}
+{"epoch": 2, "loss": 10.7876, "secs": 17.2708}
+{"epoch": 3, "loss": 7.693, "secs": 18.1634}
+{"epoch": 4, "loss": 6.1969, "secs": 18.1732}
+{"epoch": 5, "loss": 4.8622, "secs": 16.4091, "mAP50": 0.0, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.0}}
+{"epoch": 6, "loss": 4.5248, "secs": 16.8786}
+{"epoch": 7, "loss": 4.2394, "secs": 16.8971}
+{"epoch": 8, "loss": 4.0508, "secs": 16.8031}
+{"epoch": 9, "loss": 3.8578, "secs": 16.8586}
+{"epoch": 10, "loss": 3.6093, "secs": 16.9232, "mAP50": 0.0, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.0}}
+{"epoch": 11, "loss": 3.7387, "secs": 16.5362}
+{"epoch": 12, "loss": 3.4586, "secs": 17.3745}
+{"epoch": 13, "loss": 3.336, "secs": 17.4622}
+{"epoch": 14, "loss": 3.4854, "secs": 17.7443}
+{"epoch": 15, "loss": 3.1393, "secs": 17.9079, "mAP50": 0.0172, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.086}}
+{"epoch": 16, "loss": 2.8696, "secs": 17.1993}
+{"epoch": 17, "loss": 2.9277, "secs": 17.4453}
+{"epoch": 18, "loss": 2.8003, "secs": 17.6718}
+{"epoch": 19, "loss": 2.8368, "secs": 17.3429}
+{"epoch": 20, "loss": 2.909, "secs": 17.3263, "mAP50": 0.1257, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.629}}
+{"epoch": 21, "loss": 2.6552, "secs": 17.3518}
+{"epoch": 22, "loss": 2.7203, "secs": 16.7684}
+{"epoch": 23, "loss": 2.8274, "secs": 16.2108}
+{"epoch": 24, "loss": 2.8252, "secs": 16.9446}
+{"epoch": 25, "loss": 2.6939, "secs": 16.2398, "mAP50": 0.1381, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.691}}
+{"epoch": 26, "loss": 2.5964, "secs": 16.1641}
+{"epoch": 27, "loss": 2.5066, "secs": 16.5769}
+{"epoch": 28, "loss": 2.6155, "secs": 15.9689}
+{"epoch": 29, "loss": 2.4577, "secs": 16.9847}
+{"epoch": 30, "loss": 2.3212, "secs": 16.9115, "mAP50": 0.1381, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.691}}
+{"epoch": 31, "loss": 2.3359, "secs": 16.3836}
+{"epoch": 32, "loss": 2.2005, "secs": 15.9359}
+{"epoch": 33, "loss": 2.7155, "secs": 16.5451}
+{"epoch": 34, "loss": 2.1295, "secs": 16.287}
+{"epoch": 35, "loss": 2.0939, "secs": 16.8901, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 36, "loss": 2.1788, "secs": 17.7795}
+{"epoch": 37, "loss": 2.3317, "secs": 17.0668}
+{"epoch": 38, "loss": 2.1969, "secs": 16.3613}
+{"epoch": 39, "loss": 2.034, "secs": 17.1849}
+{"epoch": 40, "loss": 2.1177, "secs": 17.1987, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 41, "loss": 2.0105, "secs": 17.3758}
+{"epoch": 42, "loss": 2.1057, "secs": 17.38}
+{"epoch": 43, "loss": 1.9705, "secs": 17.2937}
+{"epoch": 44, "loss": 1.9735, "secs": 16.6064}
+{"epoch": 45, "loss": 1.7601, "secs": 17.2035, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 46, "loss": 1.7531, "secs": 17.418}
+{"epoch": 47, "loss": 1.8624, "secs": 15.8237}
+{"epoch": 48, "loss": 1.8092, "secs": 16.4289}
+{"epoch": 49, "loss": 1.7693, "secs": 17.4586}
+{"epoch": 50, "loss": 1.8257, "secs": 16.3087, "mAP50": 0.1381, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.691}}
+{"epoch": 51, "loss": 1.6814, "secs": 16.419}
+{"epoch": 52, "loss": 1.7367, "secs": 16.8914}
+{"epoch": 53, "loss": 1.6202, "secs": 17.5818}
+{"epoch": 54, "loss": 1.5956, "secs": 9.9351}
+{"epoch": 55, "loss": 1.5274, "secs": 9.7422, "mAP50": 0.1381, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.691}}
+{"epoch": 56, "loss": 1.7081, "secs": 9.7244}
+{"epoch": 57, "loss": 1.5672, "secs": 9.6741}
+{"epoch": 58, "loss": 1.6216, "secs": 9.5927}
+{"epoch": 59, "loss": 1.5736, "secs": 9.5758}
+{"epoch": 60, "loss": 1.5477, "secs": 9.4521, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 61, "loss": 1.5212, "secs": 9.6505}
+{"epoch": 62, "loss": 1.6401, "secs": 9.6306}
+{"epoch": 63, "loss": 1.4833, "secs": 9.4625}
+{"epoch": 64, "loss": 1.5205, "secs": 9.4508}
+{"epoch": 65, "loss": 1.4711, "secs": 9.454, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 66, "loss": 1.6287, "secs": 9.3169}
+{"epoch": 67, "loss": 1.7894, "secs": 9.3392}
+{"epoch": 68, "loss": 1.435, "secs": 9.4906}
+{"epoch": 69, "loss": 1.5431, "secs": 9.4192}
+{"epoch": 70, "loss": 1.6865, "secs": 9.2714, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 71, "loss": 1.6811, "secs": 9.3866}
+{"epoch": 72, "loss": 1.4581, "secs": 9.4168}
+{"epoch": 73, "loss": 1.5265, "secs": 14.1611}
+{"epoch": 74, "loss": 1.6023, "secs": 17.2079}
+{"epoch": 75, "loss": 1.3393, "secs": 18.2602, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+{"epoch": 76, "loss": 1.5389, "secs": 17.3404}
+{"epoch": 77, "loss": 1.6015, "secs": 16.5264}
+{"epoch": 78, "loss": 1.4796, "secs": 16.2725}
+{"epoch": 79, "loss": 1.4792, "secs": 17.0011}
+{"epoch": 80, "loss": 1.5496, "secs": 15.8916, "mAP50": 0.1505, "per_class": {"TOWN_HALL": 0.0, "LOOT": 0.0, "DEFENSE": 0.0, "OTHER_BUILDING": 0.0, "WALL": 0.752}}
+best mAP@50 0.150 -> checkpoints\detector_coarse.pt

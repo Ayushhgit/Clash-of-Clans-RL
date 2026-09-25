@@ -1,0 +1,730 @@
+[
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000000.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000001.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000002.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000003.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000004.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000005.png",
+  "state": "ATTACK_MENU"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000006.png",
+  "state": "ARMY"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000007.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000008.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000009.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000010.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000011.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000012.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000013.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000014.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000015.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000016.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000017.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000020.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000021.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000022.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000023.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000024.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000025.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000026.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000027.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000028.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000029.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000030.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000032.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000033.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000034.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000036.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000037.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000038.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000039.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000040.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000041.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000042.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000043.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000044.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000045.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000046.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000047.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000048.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000049.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000050.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000051.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000052.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000053.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000054.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000055.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000056.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000057.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000058.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000059.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000060.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000061.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000062.png",
+  "state": "ARMY"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000063.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000064.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000065.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000066.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000067.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000068.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000069.png",
+  "state": "ARMY"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000070.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000071.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000072.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000073.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000074.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000075.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000076.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000077.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000078.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000079.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000080.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000081.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000085.png",
+  "state": "ARMY"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000086.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000087.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000088.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000089.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000090.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000091.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000092.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000097.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000098.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000100.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000102.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000103.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000104.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000105.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\coc_01\\000000106.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\dryrun_01\\000000000.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\dryrun_02\\000000000.png",
+  "state": "ATTACK_MENU"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_01\\000000000.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_01\\000000003.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_01\\000000006.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_01\\000000008.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_01\\000000010.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_02\\000000000.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000000.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000002.png",
+  "state": "ARMY"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000003.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000005.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000017.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000025.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000029.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000031.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000041.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_01\\000000043.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000000.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000022.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000026.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000028.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000032.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000033.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000035.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_learn_03\\000000036.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000000.png",
+  "state": "HOME"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000005.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000048.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000062.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000065.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000066.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000077.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000090.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_01\\000000118.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_02\\000000004.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_02\\000000032.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_03\\000000004.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_03\\000000031.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_03\\000000034.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_03\\000000038.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000001.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000026.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000033.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000047.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000080.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000096.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000097.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000106.png",
+  "state": "BATTLE"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000107.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_loop_04\\000000108.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_play_02\\000000003.png",
+  "state": "BASE_PREVIEW"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_play_02\\000000043.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_play_02\\000000052.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\live_play_02\\000000058.png",
+  "state": "RESULT"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144344.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144350.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144357.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144405.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144412.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144431.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144438.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144446.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144451.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144512.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144518.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144532.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144540.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144548.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144601.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144608.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144612.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144617.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144629.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144633.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144638.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144643.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144654.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144700.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144705.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144717.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144724.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144731.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144739.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 144752.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 145028.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 145042.png",
+  "state": "UNKNOWN"
+ },
+ {
+  "path": "data\\raw\\screenshots\\Screenshot 2026-09-01 145051.png",
+  "state": "UNKNOWN"
+ }
+]

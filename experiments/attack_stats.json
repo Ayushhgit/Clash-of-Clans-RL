@@ -1,0 +1,171 @@
+{
+ "dims": {
+  "pattern": [
+   "side",
+   "spearhead",
+   "two_prong",
+   "quadrant",
+   "line",
+   "ring"
+  ],
+  "hero_timing": [
+   "with_troops",
+   "after_funnel",
+   "late"
+  ],
+  "hero_spot": [
+   "same",
+   "ahead",
+   "flank"
+  ],
+  "spell_timing": [
+   "early_shallow",
+   "mid",
+   "late_deep"
+  ]
+ },
+ "prior_mean": 0.35,
+ "prior_strength": 2.0,
+ "stats": {
+  "pattern": {
+   "side": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "spearhead": {
+    "n": 2,
+    "mean": 1.0569041296119837,
+    "m2": 0.3926679007098275,
+    "total_reward": 2.1138082592239673
+   },
+   "two_prong": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "quadrant": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "line": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "ring": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   }
+  },
+  "hero_timing": {
+   "with_troops": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "after_funnel": {
+    "n": 1,
+    "mean": 0.6138082592239674,
+    "m2": 0.0,
+    "total_reward": 0.6138082592239674
+   },
+   "late": {
+    "n": 1,
+    "mean": 1.5,
+    "m2": 0.0,
+    "total_reward": 1.5
+   }
+  },
+  "hero_spot": {
+   "same": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "ahead": {
+    "n": 2,
+    "mean": 1.0569041296119837,
+    "m2": 0.3926679007098275,
+    "total_reward": 2.1138082592239673
+   },
+   "flank": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   }
+  },
+  "spell_timing": {
+   "early_shallow": {
+    "n": 2,
+    "mean": 1.0569041296119837,
+    "m2": 0.3926679007098275,
+    "total_reward": 2.1138082592239673
+   },
+   "mid": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   },
+   "late_deep": {
+    "n": 0,
+    "mean": 0.0,
+    "m2": 0.0,
+    "total_reward": 0.0
+   }
+  }
+ },
+ "history": [
+  {
+   "choice": {
+    "pattern": "spearhead",
+    "hero_timing": "after_funnel",
+    "hero_spot": "ahead",
+    "spell_timing": "early_shallow"
+   },
+   "reward": 0.6138,
+   "gained": {
+    "gold": 203422,
+    "elixir": 280343,
+    "dark": 0
+   },
+   "available": {
+    "gold": 288759,
+    "elixir": 494479,
+    "dark": 4899
+   },
+   "angle_deg": 199
+  },
+  {
+   "choice": {
+    "pattern": "spearhead",
+    "hero_timing": "late",
+    "hero_spot": "ahead",
+    "spell_timing": "early_shallow"
+   },
+   "reward": 1.5,
+   "gained": {
+    "gold": 7114114,
+    "elixir": 114121,
+    "dark": null
+   },
+   "available": {
+    "gold": 502915,
+    "elixir": 451187,
+    "dark": 6324
+   },
+   "angle_deg": 284
+  }
+ ]
+}

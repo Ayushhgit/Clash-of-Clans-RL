@@ -1,0 +1,2 @@
+coarse: 6 classes -> {'WALL': 8317, 'TOWN_HALL': 707, 'OTHER_BUILDING': 1329, 'AIR_DEFENSE': 1368}
+500 labelled frames  ->  train 425  val 75

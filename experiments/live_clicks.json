@@ -1,0 +1,365 @@
+[
+ {
+  "what": "ATTACK_BUTTON",
+  "viewport": [
+   236,
+   884
+  ],
+  "screen": [
+   301,
+   900
+  ]
+ },
+ {
+  "what": "FIND_MATCH_BUTTON",
+  "viewport": [
+   328,
+   708
+  ],
+  "screen": [
+   393,
+   724
+  ]
+ },
+ {
+  "what": "ARMY_ATTACK_BUTTON",
+  "viewport": [
+   1527,
+   853
+  ],
+  "screen": [
+   1592,
+   869
+  ]
+ },
+ {
+  "what": "select 1",
+  "key": "1"
+ },
+ {
+  "what": "troop 1/25 @t=0.0s",
+  "viewport": [
+   1066,
+   191
+  ],
+  "screen": [
+   1131,
+   207
+  ]
+ },
+ {
+  "what": "troop 2/25 @t=0.2s",
+  "viewport": [
+   963,
+   145
+  ],
+  "screen": [
+   1028,
+   161
+  ]
+ },
+ {
+  "what": "troop 3/25 @t=0.4s",
+  "viewport": [
+   961,
+   131
+  ],
+  "screen": [
+   1026,
+   147
+  ]
+ },
+ {
+  "what": "troop 4/25 @t=0.6s",
+  "viewport": [
+   1051,
+   166
+  ],
+  "screen": [
+   1116,
+   182
+  ]
+ },
+ {
+  "what": "select 2",
+  "key": "2"
+ },
+ {
+  "what": "troop 5/25 @t=0.8s",
+  "viewport": [
+   1008,
+   104
+  ],
+  "screen": [
+   1073,
+   120
+  ]
+ },
+ {
+  "what": "troop 6/25 @t=1.0s",
+  "viewport": [
+   1048,
+   117
+  ],
+  "screen": [
+   1113,
+   133
+  ]
+ },
+ {
+  "what": "troop 7/25 @t=1.2s",
+  "viewport": [
+   1047,
+   155
+  ],
+  "screen": [
+   1112,
+   171
+  ]
+ },
+ {
+  "what": "troop 8/25 @t=1.3s",
+  "viewport": [
+   1123,
+   126
+  ],
+  "screen": [
+   1188,
+   142
+  ]
+ },
+ {
+  "what": "troop 9/25 @t=1.5s",
+  "viewport": [
+   998,
+   191
+  ],
+  "screen": [
+   1063,
+   207
+  ]
+ },
+ {
+  "what": "troop 10/25 @t=1.7s",
+  "viewport": [
+   965,
+   118
+  ],
+  "screen": [
+   1030,
+   134
+  ]
+ },
+ {
+  "what": "troop 11/25 @t=1.9s",
+  "viewport": [
+   1055,
+   137
+  ],
+  "screen": [
+   1120,
+   153
+  ]
+ },
+ {
+  "what": "troop 12/25 @t=2.1s",
+  "viewport": [
+   1093,
+   127
+  ],
+  "screen": [
+   1158,
+   143
+  ]
+ },
+ {
+  "what": "select z",
+  "key": "z"
+ },
+ {
+  "what": "troop 13/25 @t=2.3s",
+  "viewport": [
+   1140,
+   121
+  ],
+  "screen": [
+   1205,
+   137
+  ]
+ },
+ {
+  "what": "select a",
+  "key": "a"
+ },
+ {
+  "what": "spell 14/25 @t=6.5s",
+  "viewport": [
+   1009,
+   202
+  ],
+  "screen": [
+   1074,
+   218
+  ]
+ },
+ {
+  "what": "spell 15/25 @t=8.5s",
+  "viewport": [
+   1001,
+   221
+  ],
+  "screen": [
+   1066,
+   237
+  ]
+ },
+ {
+  "what": "select s",
+  "key": "s"
+ },
+ {
+  "what": "spell 16/25 @t=10.5s",
+  "viewport": [
+   992,
+   240
+  ],
+  "screen": [
+   1057,
+   256
+  ]
+ },
+ {
+  "what": "spell 17/25 @t=12.5s",
+  "viewport": [
+   983,
+   259
+  ],
+  "screen": [
+   1048,
+   275
+  ]
+ },
+ {
+  "what": "select q",
+  "key": "q"
+ },
+ {
+  "what": "hero 18/25 @t=14.0s",
+  "viewport": [
+   988,
+   190
+  ],
+  "screen": [
+   1053,
+   206
+  ]
+ },
+ {
+  "what": "select w",
+  "key": "w"
+ },
+ {
+  "what": "hero 19/25 @t=14.4s",
+  "viewport": [
+   988,
+   190
+  ],
+  "screen": [
+   1053,
+   206
+  ]
+ },
+ {
+  "what": "select s",
+  "key": "s"
+ },
+ {
+  "what": "spell 20/25 @t=14.5s",
+  "viewport": [
+   974,
+   278
+  ],
+  "screen": [
+   1039,
+   294
+  ]
+ },
+ {
+  "what": "select e",
+  "key": "e"
+ },
+ {
+  "what": "hero 21/25 @t=14.8s",
+  "viewport": [
+   988,
+   190
+  ],
+  "screen": [
+   1053,
+   206
+  ]
+ },
+ {
+  "what": "select s",
+  "key": "s"
+ },
+ {
+  "what": "spell 22/25 @t=16.5s",
+  "viewport": [
+   966,
+   297
+  ],
+  "screen": [
+   1031,
+   313
+  ]
+ },
+ {
+  "what": "spell 23/25 @t=18.5s",
+  "viewport": [
+   957,
+   315
+  ],
+  "screen": [
+   1022,
+   331
+  ]
+ },
+ {
+  "what": "select d",
+  "key": "d"
+ },
+ {
+  "what": "spell 24/25 @t=20.5s",
+  "viewport": [
+   948,
+   334
+  ],
+  "screen": [
+   1013,
+   350
+  ]
+ },
+ {
+  "what": "spell 25/25 @t=22.5s",
+  "viewport": [
+   939,
+   353
+  ],
+  "screen": [
+   1004,
+   369
+  ]
+ },
+ {
+  "what": "RETURN_BUTTON",
+  "viewport": [
+   945,
+   873
+  ],
+  "screen": [
+   1010,
+   889
+  ]
+ }
+]

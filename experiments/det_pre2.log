@@ -1,0 +1,19 @@
+coarse: 6 classes -> {'WALL': 11608, 'TOWN_HALL': 2306, 'OTHER_BUILDING': 2661, 'AIR_DEFENSE': 2677, 'DEFENSE': 2524, 'LOOT': 2754}
+400 labelled frames  ->  train 340  val 60
+{"epoch": 1, "loss": 2.9988, "secs": 129.9125}
+{"epoch": 2, "loss": 2.2316, "secs": 97.8592}
+{"epoch": 3, "loss": 1.9365, "secs": 99.3482}
+{"epoch": 4, "loss": 1.8036, "secs": 109.2673}
+{"epoch": 5, "loss": 1.6736, "secs": 97.3846, "mAP50": 0.3911, "per_class": {"TOWN_HALL": 0.654, "AIR_DEFENSE": 0.562, "LOOT": 0.492, "DEFENSE": 0.106, "OTHER_BUILDING": 0.372, "WALL": 0.162}}
+{"epoch": 6, "loss": 1.6174, "secs": 98.6946}
+{"epoch": 7, "loss": 1.5743, "secs": 98.2486}
+{"epoch": 8, "loss": 1.5265, "secs": 97.1879}
+{"epoch": 9, "loss": 1.4721, "secs": 74.3001}
+{"epoch": 10, "loss": 1.4556, "secs": 72.1233, "mAP50": 0.5683, "per_class": {"TOWN_HALL": 0.898, "AIR_DEFENSE": 0.652, "LOOT": 0.65, "DEFENSE": 0.38, "OTHER_BUILDING": 0.62, "WALL": 0.211}}
+{"epoch": 11, "loss": 1.4054, "secs": 93.8394}
+{"epoch": 12, "loss": 1.4106, "secs": 100.2577}
+{"epoch": 13, "loss": 1.3668, "secs": 108.2997}
+{"epoch": 14, "loss": 1.3715, "secs": 142.2293}
+{"epoch": 15, "loss": 1.3774, "secs": 118.5393, "mAP50": 0.5966, "per_class": {"TOWN_HALL": 0.905, "AIR_DEFENSE": 0.678, "LOOT": 0.684, "DEFENSE": 0.448, "OTHER_BUILDING": 0.65, "WALL": 0.214}}
+{"epoch": 16, "loss": 1.3741, "secs": 97.2012, "mAP50": 0.5986, "per_class": {"TOWN_HALL": 0.906, "AIR_DEFENSE": 0.685, "LOOT": 0.684, "DEFENSE": 0.453, "OTHER_BUILDING": 0.65, "WALL": 0.214}}
+best mAP@50 0.599 -> checkpoints\detector_pre.pt

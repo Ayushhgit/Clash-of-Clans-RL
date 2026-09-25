@@ -1,0 +1,57 @@
+{
+  "total_steps": "600000",
+  "num_envs": "64",
+  "rollout_steps": "32",
+  "epochs": "4",
+  "minibatches": "4",
+  "lr": "0.0003",
+  "anneal_lr": "True",
+  "gamma": "0.995",
+  "gae_lambda": "0.95",
+  "clip_coef": "0.2",
+  "clip_vloss": "True",
+  "ent_coef": "0.006",
+  "vf_coef": "0.5",
+  "max_grad_norm": "0.5",
+  "target_kl": "0.03",
+  "norm_adv": "True",
+  "critic_warmup_updates": "10",
+  "device": "cpu",
+  "torch_threads": "10",
+  "seed": "0",
+  "d_model": "96",
+  "n_heads": "4",
+  "n_layers": "1",
+  "memory": "gru",
+  "level": "L1",
+  "levels": "['L3', 'L4', 'L5']",
+  "curriculum": "False",
+  "promote_win_rate": "0.7",
+  "promote_window": "100",
+  "promote_metric": "win",
+  "promote_threshold": "None",
+  "eval_every": "25",
+  "eval_episodes": "16",
+  "resume": "None",
+  "run_dir": "experiments/ppo_farm_mix2",
+  "log_every": "5",
+  "save_every": "20"
+}
+[bc->ppo] loaded actor weights, reinitialised critic (4 value-head params left fresh)
+u   5 step    10240 mix R   0.023 loot 0.063 win  0.00 ent  3.427 kl 0.0000 v 0.0361    110 sps
+[warmup] critic fitted over 10 updates; actor unfrozen
+u  10 step    20480 mix R   0.965 loot 0.332 win  0.35 ent  3.152 kl 0.0000 v 0.0097    134 sps
+u  15 step    30720 mix R   1.133 loot 0.374 win  0.48 ent  2.956 kl 0.0192 v 0.0178     82 sps
+u  20 step    40960 mix R   1.097 loot 0.364 win  0.45 ent  2.863 kl 0.0029 v 0.0071     60 sps
+[eval] mix loot 0.362 win 0.44 over 48 unseen bases
+u  25 step    51200 mix R   1.175 loot 0.386 win  0.50 ent  2.692 kl 0.0044 v 0.0060     36 sps
+u  30 step    61440 mix R   1.227 loot 0.398 win  0.48 ent  2.332 kl 0.0017 v 0.0046     38 sps
+u  35 step    71680 mix R   1.131 loot 0.371 win  0.42 ent  2.204 kl 0.0004 v 0.0066     39 sps
+u  40 step    81920 mix R   1.215 loot 0.393 win  0.42 ent  1.958 kl 0.0010 v 0.0027     41 sps
+u  45 step    92160 mix R   1.114 loot 0.364 win  0.42 ent  1.557 kl 0.0010 v 0.0087     43 sps
+[eval] mix loot 0.338 win 0.33 over 48 unseen bases
+u  50 step   102400 mix R   1.043 loot 0.345 win  0.39 ent  1.624 kl 0.0053 v 0.0051     39 sps
+u  55 step   112640 mix R   1.004 loot 0.335 win  0.34 ent  1.221 kl 0.0039 v 0.0043     41 sps
+u  60 step   122880 mix R   0.995 loot 0.332 win  0.36 ent  1.004 kl 0.0002 v 0.0043     42 sps
+u  65 step   133120 mix R   0.978 loot 0.331 win  0.33 ent  0.985 kl 0.0006 v 0.0022     43 sps
+u  70 step   143360 mix R   1.092 loot 0.363 win  0.40 ent  1.194 kl 0.0020 v 0.0043     44 sps

@@ -1,0 +1,133 @@
+{
+  "_comment": "Measured from data/raw/screenshots/coc_01 (Clash of Clans, 1183x667 capture) with annotation.assist grid. Values are (left, top, width, height) in pixels at that reference size; scale by capture_size / reference_size for another window.",
+  "reference_size": [
+    1183,
+    667
+  ],
+  "battle_rect": [
+    0,
+    0,
+    1183,
+    572
+  ],
+  "army_slots": [
+    [
+      172,
+      572,
+      68,
+      93
+    ],
+    [
+      245,
+      572,
+      68,
+      93
+    ],
+    [
+      318,
+      572,
+      68,
+      93
+    ],
+    [
+      390,
+      572,
+      68,
+      93
+    ],
+    [
+      463,
+      572,
+      68,
+      93
+    ],
+    [
+      536,
+      572,
+      68,
+      93
+    ],
+    [
+      609,
+      572,
+      68,
+      93
+    ],
+    [
+      682,
+      572,
+      68,
+      93
+    ],
+    [
+      754,
+      572,
+      68,
+      93
+    ],
+    [
+      827,
+      572,
+      68,
+      93
+    ]
+  ],
+  "buttons": {
+    "ATTACK_BUTTON": [
+      18,
+      553,
+      102,
+      97
+    ],
+    "RETURN_BUTTON": [
+      522,
+      554,
+      155,
+      68
+    ],
+    "NEXT_BUTTON": [
+      1018,
+      470,
+      139,
+      79
+    ],
+    "END_BATTLE_BUTTON": [
+      12,
+      515,
+      117,
+      31
+    ]
+  },
+  "hud": {
+    "gold": [
+      1027,
+      24,
+      143,
+      23
+    ],
+    "elixir": [
+      1027,
+      56,
+      143,
+      22
+    ],
+    "dark": [
+      1060,
+      91,
+      100,
+      19
+    ],
+    "timer": [
+      520,
+      18,
+      130,
+      44
+    ],
+    "loot_panel": [
+      20,
+      62,
+      120,
+      106
+    ]
+  }
+}

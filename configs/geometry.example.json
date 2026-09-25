@@ -1,0 +1,25 @@
+{
+  "_comment": "Measured once per resolution in Phase 1. All values are screen pixels, (left, top, width, height). Copy to geometry.json and edit.",
+  "battle_rect": [160, 90, 1600, 900],
+  "army_slots": [
+    [300, 960, 90, 90],
+    [400, 960, 90, 90],
+    [500, 960, 90, 90],
+    [600, 960, 90, 90],
+    [700, 960, 90, 90],
+    [800, 960, 90, 90]
+  ],
+  "buttons": {
+    "ATTACK_BUTTON": [1500, 940, 200, 80],
+    "NEXT_BUTTON": [1250, 940, 200, 80],
+    "CONFIRM_BUTTON": [900, 620, 180, 70],
+    "RETURN_BUTTON": [860, 880, 200, 80],
+    "END_BATTLE_BUTTON": [60, 940, 160, 70]
+  },
+  "hud": {
+    "gold": [1620, 40, 180, 34],
+    "elixir": [1620, 84, 180, 34],
+    "timer": [880, 30, 120, 34],
+    "destruction": [820, 74, 140, 34]
+  }
+}

@@ -1,0 +1,41 @@
+# GPU profile (set device: cuda). Do not run this on CPU.
+# CPU profile: ~200 env-steps/s on 12 cores. Tuned by scripts/profile_ppo.py --
+# 1 transformer layer and 2 epochs/2 minibatches is where throughput stops
+# improving without hurting the update.
+total_steps: 3000000
+num_envs: 64
+rollout_steps: 32
+epochs: 4
+minibatches: 4
+lr: 0.0003
+anneal_lr: true
+gamma: 0.995
+gae_lambda: 0.95
+clip_coef: 0.2
+clip_vloss: true
+ent_coef: 0.01
+vf_coef: 0.5
+max_grad_norm: 0.5
+target_kl: 0.03
+d_model: 192
+n_heads: 4
+n_layers: 3
+memory: gru
+level: L1
+curriculum: true
+promote_win_rate: 0.7
+promote_window: 100
+run_dir: experiments/ppo_large
+log_every: 5
+save_every: 20
+env:
+  level: L1
+  obs_mode: privileged
+  sim:
+    t_max: 180.0
+    dt: 0.1
+  reward:
+    loot: 1.0
+    dest: 1.0
+    unit: 0.3
+    time: 0.05

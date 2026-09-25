@@ -1,0 +1,47 @@
+# CPU profile: ~200 env-steps/s on 12 cores. Tuned by scripts/profile_ppo.py --
+# 1 transformer layer and 2 epochs/2 minibatches is where throughput stops
+# improving without hurting the update.
+total_steps: 600000
+num_envs: 64
+rollout_steps: 32
+epochs: 4
+minibatches: 4
+lr: 0.0003
+anneal_lr: true
+gamma: 0.995
+gae_lambda: 0.95
+clip_coef: 0.2
+clip_vloss: true
+ent_coef: 0.006
+vf_coef: 0.5
+max_grad_norm: 0.5
+target_kl: 0.03
+d_model: 96
+n_heads: 4
+n_layers: 1
+memory: gru
+level: L1
+curriculum: true
+promote_win_rate: 0.7
+promote_window: 100
+run_dir: experiments/ppo_farm
+log_every: 5
+save_every: 20
+env:
+  level: L1
+  obs_mode: privileged
+  ticks_per_step: 4
+  sim:
+    t_max: 180.0
+    dt: 0.1
+  reward:            # loot per raid; stars are worth nothing
+    loot: 3.0
+    dest: 0.1
+    th: 0.0
+    unit: 0.2
+    time: 0.05
+    win: 0.0
+    perfect: 0.0
+    fail: 0.0
+    efficiency: 0.5
+    efficiency_metric: loot

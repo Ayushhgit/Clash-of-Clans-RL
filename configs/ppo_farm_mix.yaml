@@ -1,0 +1,62 @@
+# Loot farming, warm-started from behavioural cloning and trained on a fixed
+# mix of base difficulties instead of a curriculum.
+#
+# Why not a curriculum: the promotion gate needs a bar to clear, and there is
+# no single bar. Achievable loot differs ~2.5x between L3 (~0.65) and L4
+# (~0.26), so a fixed loot threshold either promotes instantly or never, and
+# the old win-rate gate asked a farming agent -- paid nothing for a win -- to
+# clear 70% wins. A mix also matches deployment: real bases are not sorted.
+#
+#   python -m scripts.train_ppo --config configs/ppo_farm_mix.yaml \
+#       --bc-init checkpoints/bc_farm.pt
+total_steps: 600000
+num_envs: 64
+rollout_steps: 32
+epochs: 4
+minibatches: 4
+lr: 0.0003
+anneal_lr: true
+gamma: 0.995
+gae_lambda: 0.95
+clip_coef: 0.2
+clip_vloss: true
+ent_coef: 0.006
+vf_coef: 0.5
+max_grad_norm: 0.5
+target_kl: 0.03
+# ~20k steps fitting the critic against the real reward with the actor frozen.
+# BC leaves the value head random; acting on those first advantages is what
+# destroys a warm start.
+critic_warmup_updates: 10
+d_model: 96
+n_heads: 4
+n_layers: 1
+memory: gru
+# L2 is solved (eval loot 0.95) -- a quarter of the envs on it bought
+# nothing. Advantages are whitened per level, so the easy end of the mix
+# can no longer dominate the gradient either.
+levels: [L3, L4, L5]
+curriculum: false
+eval_every: 25
+eval_episodes: 16
+run_dir: experiments/ppo_farm_mix2
+log_every: 5
+save_every: 20
+env:
+  level: L3
+  obs_mode: privileged
+  ticks_per_step: 4
+  sim:
+    t_max: 180.0
+    dt: 0.1
+  reward:            # loot per raid; stars are worth nothing
+    loot: 3.0
+    dest: 0.1
+    th: 0.0
+    unit: 0.2
+    time: 0.05
+    win: 0.0
+    perfect: 0.0
+    fail: 0.0
+    efficiency: 0.5
+    efficiency_metric: loot

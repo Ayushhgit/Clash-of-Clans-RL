@@ -1,0 +1,10 @@
+numpy>=1.26
+torch>=2.2
+pyyaml>=6.0
+# --- perception / capture phases (M1-M3, M11) ---
+mss>=9.0            # screen capture
+opencv-python>=4.9  # frame io, annotation tool
+pillow>=10.0
+pynput>=1.7         # input synthesis + demonstration recording
+# --- optional ---
+pytest>=8.0
